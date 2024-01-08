@@ -81,8 +81,8 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "8799d48386f500a6f924f327d61680fcb544ce74595f044d40c398de2174bc58"
+file = "mods/qkl.pw.toml"
+hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
 
 [[files]]
@@ -138,6 +138,16 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "f79ac61306ede9d4037235e540fb6f9046a5fa20ef1b24b2639c6ca78addd165"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "fade244d31c2deeb9ea1b3f698e56595b894f3ea7df3734463ee627d31860d79"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
