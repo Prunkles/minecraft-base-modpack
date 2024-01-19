@@ -121,6 +121,11 @@ hash = "75b8ac35dee78b95e98d995a1d22e2b122e39425b2ab8838334b8cac849ca0f4"
 metafile = true
 
 [[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "9cec4fbd17a77c743a9502aac35217e709c5cc87fe2c46467c420660dc589400"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
