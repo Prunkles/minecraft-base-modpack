@@ -32,12 +32,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
+hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f2c750d280102a311769d802f9b151f5d6850c04a8cba6090a2e802de54ff6ce"
+hash = "e3aab9d877766dfc899ef755c5d61e869fc85dc4ec95ab170057fd4e17407faa"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "60d8f8307c2008c62cffe4c0be4fa1e8e9057fadac469594bd326f7e370ec0be"
+hash = "59645352080c5d972b2cb3a8cd560e9f12c5433950439e7d5ec5c574184aedfd"
 metafile = true
 
 [[files]]
