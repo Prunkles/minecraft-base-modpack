@@ -42,12 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9e7bccd0c45b66352abd6fc0b1fa2745d564deb24f5c53dd20728847cf27dda0"
+hash = "d109563ffb55e73344d96d74dfcd6ed6665f6a355210c61b84b5b386fc444572"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "cfe29cfca29dbb7e4d357dfad08cea55146c310bfd41a9c58b2dbcc8ae7fa0b5"
+hash = "258432c5c7b93cac4328d3bfd34d5ff8d4ce55212fd5adb0fc1b0efbc99d8c70"
 metafile = true
 
 [[files]]
@@ -72,12 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "1f64a0fd8804d7b38014217269964ef7ff41c146b2d4660614390bf4703d0b72"
+hash = "962dddb3d561cfb056c53b5b308016b83755651c1c462cb6abc0889471ca36e9"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
+hash = "d6aecbaf1fbfa8c4bd57184d515892c40f6fd00ed9c265468059d72c028a48aa"
 metafile = true
 
 [[files]]
@@ -137,25 +137,25 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a2d4f79167046f3acd3326ad88aa4b44191644f1d4e8c80d4fb0444751784c21"
+hash = "41db0409f979462a7ed0bfe765dca0ed8d20250b3cc3ab4c7cfc7d7c5e53f2cd"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "e3aab9d877766dfc899ef755c5d61e869fc85dc4ec95ab170057fd4e17407faa"
+hash = "ef419cbac65f613bac1f30d9a6ff68dd704bdea0f0929928956b4f5306a70d0b"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "59645352080c5d972b2cb3a8cd560e9f12c5433950439e7d5ec5c574184aedfd"
+hash = "b8e2a94fbe58344db3f5d075082883c767a1aa14f14c83387a7cdde8734cf372"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+hash = "f1ce0778845c0a21e9ec09f582e16d4395d6a226e3eae95dfe8421c7a9ff4d83"
 metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "d1591fa168a7e075122ab354fe31000866ec7bbc55991d267674445cd1c4e237"
+hash = "5a858b73cd053d094cc4e7894fa32219872dcf572604e6aa1f1e7ac2680d9bd2"
 metafile = true
