@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
+hash = "eedead342bdd4f2b7aa9d148641a7b8ce7f54ef0d68e49ed82e0c5541a8fe7bf"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
+hash = "dc16bea52f249d03468c8f34ca625b089f163917dbed55ff785a9c09ebe39d3a"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "0397e5fb52cf2e3330a32c82a9954a288dac5628837d3d1badb50ce7fab8d749"
+hash = "582d7b78df4e2d9206c657581a2150102f8c473608b817a49612ba302e8e8a1c"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "cd55d6298c52f17e360d2166ca5a7fc23083118f761deca96f23f6e90d40a314"
+hash = "b20cb366e1ccd4fcf4e51cf4cb593a702c13a32bc841d377c197b5c4453ff603"
 metafile = true
 
 [[files]]
