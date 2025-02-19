@@ -101,11 +101,6 @@ hash = "bccd06a5e9fee3d41ceb1c3746619be49182cc5be4fa9ea271158245e91f5061"
 metafile = true
 
 [[files]]
-file = "mods/starlight.pw.toml"
-hash = "18ee61062b3f43fd026ee620bb2de6073de791132c5067d262bd424628bed4a5"
-metafile = true
-
-[[files]]
 file = "mods/stendhal.pw.toml"
 hash = "ef09549b50c6d26e7796f9019c7af46bf0b90fd89362286325030194373ada82"
 metafile = true
