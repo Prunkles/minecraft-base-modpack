@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "b20cb366e1ccd4fcf4e51cf4cb593a702c13a32bc841d377c197b5c4453ff603"
+hash = "6b3c217dff9042118994a4d55b3d149390943d054808a1ecc978c50dbca65fe1"
 metafile = true
 
 [[files]]
