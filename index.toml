@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/antighost.pw.toml"
-hash = "a1323e5f66dc9600ab40612bf705472425daf7f4ccf1037b921c25ddade0dac7"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
 metafile = true
