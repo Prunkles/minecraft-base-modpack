@@ -6,6 +6,11 @@ hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "cbc0973dadd8e4a191ce8e819f212bcfb58708885b4a46a9de7afa29e71aadad"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "783f6391e53272943cce060fd820d1c5b7cbdf94df1341f250bf09eaa296171c"
 metafile = true
