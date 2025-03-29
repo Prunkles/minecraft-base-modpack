@@ -11,6 +11,11 @@ hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "c9eaba1458d581b863ba822dc4788b164ff105599d38c0d2ca80a263f8eecd64"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "cbc0973dadd8e4a191ce8e819f212bcfb58708885b4a46a9de7afa29e71aadad"
 metafile = true
